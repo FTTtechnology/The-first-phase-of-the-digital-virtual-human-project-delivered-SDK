@@ -1,0 +1,62 @@
+[
+    {
+        "name": "right_hand",
+        "joints": [
+            "Shoulder_R",
+            "Wrist_R"
+        ],
+        "width": 0.02,
+        "height": 0.02,
+        "animation": "gesture_ok"
+    },
+    {
+        "name": "left_hand",
+        "joints": [
+            "Shoulder_L",
+            "Wrist_L"
+        ],
+        "width": 0.02,
+        "height": 0.02,
+        "animation":"human_comfort"
+    },
+    {
+        "name": "right_leg",
+        "joints": [
+            "Hip_R",
+            "Ankle_R"
+        ],
+        "width": 0.02,
+        "height": 0.02,
+        "animation":"human_bow"
+    },
+    {
+        "name": "left_leg",
+        "joints": [
+            "Hip_L",
+            "Ankle_L"
+        ],
+        "width": 0.02,
+        "height": 0.02,
+        "animation":"human_motebu"
+    },
+    {
+        "name": "head",
+        "joints": [
+            "Head_M",
+            "HeadEnd_M"
+        ],
+        "width": 0.07,
+        "height": 0.07,
+        "animation":"human_rollinghead"
+    },
+    {
+        "name": "body",
+        "joints": [
+            "Root_M",
+            "Head_M"
+        ],
+        "width": 0.04,
+        "height": 0.04,
+        "animation":"human_zhuanquan"
+    }
+]

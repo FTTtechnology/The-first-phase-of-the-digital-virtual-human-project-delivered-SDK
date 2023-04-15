@@ -1,0 +1,98 @@
+{
+	"timestamp": "2022.7.26.15:30",
+	"scale": 9.4,
+	"worldPosition": [
+		3.5,
+		-2.6,
+		0
+	],
+	"eulerRotation": [
+		0,
+		0,
+		0
+	],
+	"skeleton": "body/wandemei/wandemei.hsk",
+	"group": [
+		{
+			"name": "headm",
+			"bssize": 52,
+			"asset": "body/wandemei/wandemei#headm.hms"
+		},
+		{
+			"name": "dteeth",
+			"bssize": 4,
+			"asset": "body/wandemei/wandemei#dteeth.hms"
+		},
+		{
+			"name": "uteeth",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#uteeth.hms"
+		},
+		{
+			"name": "eyebrow",
+			"bssize": 11,
+			"asset": "body/wandemei/wandemei#eyebrow.hms"
+		},
+		{
+			"name": "leyes",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#leyes.hms"
+		},
+		{
+			"name": "reyes",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#reyes.hms"
+		},
+		{
+			"name": "tongue",
+			"bssize": 5,
+			"asset": "body/wandemei/wandemei#tongue.hms"
+		},
+		{
+			"name": "body",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#body.hms"
+		},
+		{
+			"name": "dcloth",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#dcloth.hms"
+		},
+		{
+			"name": "ucloth",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#ucloth.hms"
+		},
+		{
+			"name": "hat",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#hat.hms"
+		},
+		{
+			"name": "shoe",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#shoe.hms"
+		},
+		{
+			"name": "hair",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#hair.hms"
+		},
+		{
+			"name": "love",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#love.hms"
+		},
+		{
+			"name": "question",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#question.hms"
+		},
+		{
+			"name": "spatula",
+			"bssize": 0,
+			"asset": "body/wandemei/wandemei#spatula.hms"
+		}
+	],
+	"item": []
+}

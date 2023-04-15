@@ -1,0 +1,213 @@
+{
+    "mask": [
+        {
+            "id": "MASK_ROOT",
+            "list": [
+                "Hips",
+                "LeftUpLeg",
+                "LeafLeftUpLegRoll1",
+                "LeftLeg",
+                "LeafLeftLegRoll1",
+                "LeftFoot",
+                "LeftToeBase",
+                "RightUpLeg",
+                "LeafRightUpLegRoll1",
+                "RightLeg",
+                "LeafRightLegRoll1",
+                "RightFoot",
+                "RightToeBase"
+            ]
+        },
+        {
+            "id": "MASK_SPINE",
+            "list": [
+                "Spine",
+                "Spine1",
+                "LeftShoulder",
+                "LeftArm",
+                "LeafLeftArmRoll1",
+                "LeftForeArm",
+                "LeafLeftForeArmRoll1",
+                "LeftHand",
+                "LeftHandPinky1",
+                "LeftHandPinky2",
+                "LeftHandPinky3",
+                "LeftHandPinky4",
+                "LeftHandRing1",
+                "LeftHandRing2",
+                "LeftHandRing3",
+                "LeftHandRing4",
+                "LeftHandMiddle1",
+                "LeftHandMiddle2",
+                "LeftHandMiddle3",
+                "LeftHandMiddle4",
+                "LeftHandIndex1",
+                "LeftHandIndex2",
+                "LeftHandIndex3",
+                "LeftHandIndex4",
+                "LeftHandThumb1",
+                "LeftHandThumb2",
+                "LeftHandThumb3",
+                "Neck",
+                "Head",
+                "HeadEnd",
+                "tonguem",
+                "tongue1",
+                "tongue2",
+                "tongue3",
+                "Eye_L1",
+                "Eye_L",
+                "Eye_R1",
+                "Eye_R",
+                "RightShoulder",
+                "RightArm",
+                "LeafRightArmRoll1",
+                "RightForeArm",
+                "LeafRightForeArmRoll1",
+                "RightHand",
+                "RightHandPinky1",
+                "RightHandPinky2",
+                "RightHandPinky3",
+                "RightHandPinky4",
+                "RightHandRing1",
+                "RightHandRing2",
+                "RightHandRing3",
+                "RightHandRing4",
+                "RightHandMiddle1",
+                "RightHandMiddle2",
+                "RightHandMiddle3",
+                "RightHandMiddle4",
+                "RightHandIndex1",
+                "RightHandIndex2",
+                "RightHandIndex3",
+                "RightHandIndex4",
+                "RightHandThumb1",
+                "RightHandThumb2",
+                "RightHandThumb3",
+                "question1",
+                "love_l",
+                "love_r",
+                "spatula1",
+                "eyebrow_BS.BrowDownLeft",
+                "headm_BS.BrowDownLeft",
+                "eyebrow_BS.BrowDownRight",
+                "headm_BS.BrowDownRight",
+                "eyebrow_BS.BrowInnerUp",
+                "headm_BS.BrowInnerUp",
+                "eyebrow_BS.BrowOuterUpLeft",
+                "headm_BS.BrowOuterUpLeft",
+                "eyebrow_BS.BrowOuterUpRight",
+                "headm_BS.BrowOuterUpRight",
+                "headm_BS.CheekPuff",
+                "eyebrow_BS.CheekSquintLeft",
+                "headm_BS.CheekSquintLeft",
+                "eyebrow_BS.CheekSquintRight",
+                "headm_BS.CheekSquintRight",
+                "headm_BS.EyeBlinkLeft",
+                "headm_BS.EyeBlinkRight",
+                "headm_BS.EyeLookDownLeft",
+                "headm_BS.EyeLookDownRight",
+                "headm_BS.EyeLookInLeft",
+                "headm_BS.EyeLookInRight",
+                "headm_BS.EyeLookOutLeft",
+                "headm_BS.EyeLookOutRight",
+                "eyebrow_BS.EyeLookUpLeft",
+                "headm_BS.EyeLookUpLeft",
+                "eyebrow_BS.EyeLookUpRight",
+                "headm_BS.EyeLookUpRight",
+                "headm_BS.EyeSquintLeft",
+                "headm_BS.EyeSquintRight",
+                "eyebrow_BS.EyeWideLeft",
+                "headm_BS.EyeWideLeft",
+                "eyebrow_BS.EyeWideRight",
+                "headm_BS.EyeWideRight",
+                "dteeth_BS.JawForward",
+                "headm_BS.JawForward",
+                "tongue_BS.JawForward",
+                "tongue_BS.JawLeft",
+                "tongue_BS.JawOpen",
+                "tongue_BS.JawRight",
+                "headm_BS.MouthDimpleLeft",
+                "headm_BS.MouthDimpleRight",
+                "headm_BS.MouthLeft",
+                "headm_BS.MouthRight",
+                "headm_BS.MouthRollUpper",
+                "headm_BS.MouthStretchLeft",
+                "headm_BS.MouthStretchRight",
+                "headm_BS.NoseSneerLeft",
+                "headm_BS.NoseSneerRight",
+                "headm_BS.TongueOut",
+                "tongue_BS.TongueOut"
+            ]
+        },
+        {
+            "id": "MASK_MOUTH",
+            "list": [
+                "dteeth_BS.JawLeft",
+                "headm_BS.JawLeft",
+                "dteeth_BS.JawOpen",
+                "headm_BS.JawOpen",
+                "dteeth_BS.JawRight",
+                "headm_BS.JawRight",
+                "headm_BS.MouthClose",
+                "headm_BS.MouthFrownLeft",
+                "headm_BS.MouthFrownRight",
+                "headm_BS.MouthFunnel",
+                "headm_BS.MouthLowerDownLeft",
+                "headm_BS.MouthLowerDownRight",
+                "headm_BS.MouthPressLeft",
+                "headm_BS.MouthPressRight",
+                "headm_BS.MouthPucker",
+                "headm_BS.MouthRollLower",
+                "headm_BS.MouthShrugLower",
+                "headm_BS.MouthShrugUpper",
+                "headm_BS.MouthSmileLeft",
+                "headm_BS.MouthSmileRight",
+                "headm_BS.MouthUpperUpLeft",
+                "headm_BS.MouthUpperUpRight"
+            ]
+        }
+    ],
+    "hier": [
+        {
+            "id": "BASE",
+            "mask": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "id": "BODY",
+            "mask": [
+                0,
+                1
+            ]
+        },
+        {
+            "id": "BASE_UP",
+            "mask": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": "LOWLIMB",
+            "mask": [
+                0
+            ]
+        },
+        {
+            "id": "UPLIMB",
+            "mask": [
+                1
+            ]
+        },
+        {
+            "id": "MOUTH",
+            "mask": [
+                2
+            ]
+        }
+    ]
+}

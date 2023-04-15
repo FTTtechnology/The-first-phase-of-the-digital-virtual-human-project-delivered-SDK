@@ -1,0 +1,98 @@
+{
+	"timestamp": "2022.7.26.15:30",
+	"scale": 9.4,
+	"worldPosition": [
+		3.5,
+		-2.6,
+		0
+	],
+	"eulerRotation": [
+		0,
+		0,
+		0
+	],
+	"skeleton": "body/wandean/wandean.hsk",
+	"group": [
+		{
+			"name": "headm",
+			"bssize": 52,
+			"asset": "body/wandean/wandean#headm.hms"
+		},
+		{
+			"name": "dteeth",
+			"bssize": 4,
+			"asset": "body/wandean/wandean#dteeth.hms"
+		},
+		{
+			"name": "eyebrow",
+			"bssize": 11,
+			"asset": "body/wandean/wandean#eyebrow.hms"
+		},
+		{
+			"name": "tongue",
+			"bssize": 5,
+			"asset": "body/wandean/wandean#tongue.hms"
+		},
+		{
+			"name": "uteeth",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#uteeth.hms"
+		},
+		{
+			"name": "leye",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#leye.hms"
+		},
+		{
+			"name": "reye",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#reye.hms"
+		},
+		{
+			"name": "dcloth",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#dcloth.hms"
+		},
+		{
+			"name": "uloth",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#uloth.hms"
+		},
+		{
+			"name": "body",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#body.hms"
+		},
+		{
+			"name": "shoe",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#shoe.hms"
+		},
+		{
+			"name": "hair",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#hair.hms"
+		},
+		{
+			"name": "hat",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#hat.hms"
+		},
+				{
+			"name": "love",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#love.hms"
+		},
+		{
+			"name": "question",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#question.hms"
+		},
+		{
+			"name": "spatula",
+			"bssize": 0,
+			"asset": "body/wandean/wandean#spatula.hms"
+		}
+	],
+	"item": []
+}
